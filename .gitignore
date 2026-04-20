@@ -13,3 +13,5 @@ wheels/
 .env
 # Virtual environments
 .venv
+
+uv.lock
