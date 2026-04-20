@@ -1,7 +1,7 @@
 [project]
-name = "hobby-tracker"
+name = "cholo-scrapper"
 version = "0.1.0"
-description = "Add your description here"
+description = "A web scrapper that does nothing but uses local AI using ollama to simulate a snarky cholo"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
